@@ -53,7 +53,8 @@ Upon invocation, **shellby** receives and copies the environment of the parent p
 The home directory of the current user and the default directory argument for the **cd** builtin command.
 
 ```
-$ echo "echo $HOME" | ./shellby
+$ echo "echo $HOME" | ./shellby![logo-vertical](https://github.com/njuguna199/simple_shell/assets/104842563/2a64cb7d-d9de-4b19-9420-7f767a40fd86)
+
 /home/vagrant
 ```
 
@@ -284,7 +285,7 @@ $
 ## Authors :black_nib:
 
 * Linus Chidera <[Linusman001](https://github.com/Linusman001)>
-* Goodness Nwaneri <[lindamami](https://github.com/lindamami)>
+* Kim Njuguna <[njuguna199](https://github.com/njuguna199)>
 
 ## License :lock:
 
